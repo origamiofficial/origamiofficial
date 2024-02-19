@@ -6,5 +6,5 @@
   <img src="https://profile-counter.glitch.me/origamiofficial/count.svg">
   <br>
   <br>
-  <!-- <a href="https://www.buymeacoffee.com/origamiofficial"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="origamiofficial" /></a> -->
+  <img src="https://img.shields.io/badge/stand%20with-%F0%9F%87%B5%F0%9F%87%B8%20palestine-white.svg">
 </p>
